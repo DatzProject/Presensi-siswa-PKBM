@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 
 const ENDPOINT =
-  "https://script.google.com/macros/s/AKfycbzmvMj6hRuwq3tMx7MXhtN5jHvNeOeFPmshrXZnTGn637DQfPK1reP2vUcfsFA8HXNI/exec";
+  "https://script.google.com/macros/s/AKfycbwILTEOufB7W8ov71JUDLytlDSCF4SAaPyxrx4CUy-TVaGhlauDmSZZhkNqWl0-bUBBcg/exec";
 
 interface Attendance {
   id: number;
